@@ -1,0 +1,36 @@
+{
+    "livros":[
+        {
+            "id":1,
+            "titulo": "Lógica de Programação",
+            "autor": [1, 2],
+            "valor": 20
+        },
+        {
+            "id":2,
+            "titulo": "Código Limpo",
+            "autor": 3,
+            "valor": 90 
+        },
+        {
+            "id":3,
+            "titulo": "Arquitetura Limpa",
+            "autor": 3,
+            "valor": 85
+        }
+    ],
+    "autores":[
+        {
+            "id": 1,
+            "nome":"Paulo Silveira"
+        },
+        {
+            "id": 2,
+            "nome": "Adriano Almeida"
+        },
+        {
+            "id": 3,
+            "nome": "Robert C. Martin" 
+        }
+    ]
+}
