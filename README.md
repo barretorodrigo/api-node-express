@@ -17,9 +17,11 @@ $ npm install --save mysql2
 $ npx sequelize init
 
 ```
-config - Configuração do banco de dados. (Conexão)
-migrations - Migrações são alterações estruturais no banco de dados
-models - Modelo faz referência a tabela no banco de dados
+* **config** - Configuração do banco de dados. (Conexão)
+
+* **migrations** - Migrações são alterações estruturais no banco de dados
+
+* **models** - Modelo faz referência a tabela no banco de dados
 
 ## Criação de modelos e migrações
 ```sh
